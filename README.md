@@ -8,7 +8,7 @@
 
 <div align="center">
 - 🌱 I’m currently learning on Angular Ionic 
-<br>
+<br><br>
 - ⚡ I am fascinated by artificial intelligence :)
 <br>
 - 🐈‍ LFJ right now!
