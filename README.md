@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+                 
 
 <!--
 **rocksJS/rocksJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+   ![visitors](https://visitor-badge.glitch.me/badge?page_id=rocksJS.visitor-badge)
