@@ -13,8 +13,10 @@
 <br>
 - 🐈‍ LFJ right now!
 <br>
-- 📫 How to reach me: [@daniiloshchepkov](https://t.me/oshchepkov_daniil) on Telegram
+
 </div>
+<br>
+- 📫 How to reach me: [@daniiloshchepkov](https://t.me/oshchepkov_daniil) on Telegram
 <h3 align="left">Languages and Tools:</h3>
 <p>
  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
