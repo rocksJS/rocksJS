@@ -9,6 +9,7 @@
 
 - 🌱 I’m currently learning on Angular Ionic 
 - 📫 How to reach me: [@daniiloshchepkov](https://t.me/oshchepkov_daniil) on Telegram
+- 🐈‍ LFJ right now!
 - ⚡ I am fascinated by artificial intelligence.
 
 <h3 align="left">Languages and Tools:</h3>
