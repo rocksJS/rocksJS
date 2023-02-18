@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${rocksJS}.visitor-badge)
+
+
                  
 
 <!--
@@ -15,6 +18,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
    ![visitors](https://visitor-badge.glitch.me/badge?page_id=${rocksJS}.visitor-badge)
+-->
+
