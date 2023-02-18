@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-   ![visitors](https://visitor-badge.glitch.me/badge?page_id=rocksJS.visitor-badge)
+   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${rocksJS}.visitor-badge)
