@@ -8,6 +8,7 @@
 
 <div align="center">
 - 🌱 I’m currently learning on Angular Ionic 
+<br>
 - 📫 How to reach me: [@daniiloshchepkov](https://t.me/oshchepkov_daniil) on Telegram
 - 🐈‍ LFJ right now!
 - ⚡ I am fascinated by artificial intelligence :)
