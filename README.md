@@ -6,12 +6,12 @@
 <h1 align="center">Hi 👋, I'm rocksJS</h1>
 <h3 align="center">A junior frontend developer from Russia</h3>
 
-
+<div align="center">
 - 🌱 I’m currently learning on Angular Ionic 
 - 📫 How to reach me: [@daniiloshchepkov](https://t.me/oshchepkov_daniil) on Telegram
 - 🐈‍ LFJ right now!
 - ⚡ I am fascinated by artificial intelligence :)
-
+</div>
 <h3 align="left">Languages and Tools:</h3>
 <p>
  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
