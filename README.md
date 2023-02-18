@@ -6,8 +6,19 @@
 <h1 align="center">Hi 👋, I'm rocksJS</h1>
 <h3 align="center">A junior frontend developer from Russia</h3>
 
+
+- 🌱 I’m currently learning on Angular Ionic 
+- 📫 How to reach me: [@daniiloshchepkov](https://t.me/oshchepkov_daniil) on Telegram
+- ⚡ I am fascinated by artificial intelligence.
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> </p>
+ <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+ <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+ <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+ <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+ <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+ <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+
 
 
 
