@@ -13,8 +13,7 @@
 <br>
 - 🐈‍ LFJ right now!
 <br>
-- 📫 How to reach me: @oshchepkov_daniil on Telegram [daniil](https://t.me/oshchepkov_daniil/)
-
+- 📫 How to reach me: @oshchepkov_daniil on Telegram 
 </div>
 
 <div align="center">
