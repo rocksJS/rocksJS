@@ -17,6 +17,9 @@
 
 </div>
 
+<div align="center">
+  
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
@@ -37,6 +40,7 @@
 ![](https://raw.githubusercontent.com/rocksJS/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/rocksJS/github-stats-transparent/output/generated/languages.svg)
 
+  </div>
 
 <!-- <details open>
  <summary> 😇 <b>Medium Published articles</b>: </summary>
